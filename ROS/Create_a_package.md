@@ -116,6 +116,7 @@ catkin_make
 
 let's explain the code:
 
+- In the first line, we specify the path of the python interpreter, it is called shebang.
 - we import rospy and std_msgs.msg
 - we create a function hello
 - we create a publisher
